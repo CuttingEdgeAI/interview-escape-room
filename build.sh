@@ -1,0 +1,1 @@
+docker build -t interview-escape-room .
