@@ -1,5 +1,5 @@
 def do_the_thing(s):
-    clear_text = rot13(s)
+    clear_text = s
     if "http" in clear_text: 
         print("Go here in your browser! {}".format(clear_text))
     else:

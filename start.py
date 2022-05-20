@@ -2,7 +2,6 @@
 
 CIPHER_TEXT = 'uggcf://pbqrecnq.vb/DGEPQJW9'
 
-import behind_the_scenes
 
 def main():
     behind_the_scenes.do_the_thing(CIPHER_TEXT)
